@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roxane!
 - 👀 I’m interested in game development and software engineering, especially frontend web development.
-- 🌱 My skills are JavaScript (intermediate), HTML/CSS (intermediate), C# (intermediate), and UX Design.
+- 🌱 My skills are JavaScript, HTML/CSS, C#, UX Design, and game development in Unity.
 - 💞️ I’m looking to collaborate on game jams or web and app projects.
 - 📫 You can reach me by email (roxane.noel92@gmail.com). 
 
