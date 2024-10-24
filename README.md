@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roxane!
 - 👀 I’m interested in game development and software engineering, especially frontend web development.
-- 🌱 TypeScript/JavaScript, HTML, SCSS/CSS, C#, UX Design, game development in Unity, Racket/Pollen.
+- 🌱 TypeScript/JavaScript (React, Vue.js), HTML, SCSS/CSS, C#, Ruby on Rails, UX Design, game development in Unity.
 - 💞️ I’m looking to collaborate on game jams or web and app projects.
 - 📫 You can reach me by email (roxane.noel92@gmail.com). 
 
